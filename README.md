@@ -21,7 +21,7 @@ pip install requests
 Then run:
 
 ```bash
-python weather.py
+python task6.py
 ```
 
 Enter a city name when prompted.
